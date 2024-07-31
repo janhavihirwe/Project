@@ -7,3 +7,5 @@ Screenshots:
 ![](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+
+Deployed link: https://aesthetic-kataifi-f09fbf.netlify.app/
