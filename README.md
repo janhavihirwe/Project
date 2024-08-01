@@ -4,8 +4,8 @@ It is an interactive web-based resume for the superhero Thor, featuring personal
 Included additional features such as a gallery, theme music, and a movie trailer to enhance user engagement.
 
 Screenshots:
-![](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![](.images/image.png)
+![alt text](.images/image-1.png)
+![alt text](.images/image-2.png)
 
 Deployed link: https://aesthetic-kataifi-f09fbf.netlify.app/
